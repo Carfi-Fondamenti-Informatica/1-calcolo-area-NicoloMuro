@@ -1,6 +1,5 @@
 #include <iostream>
 using namespace std;
-
 int main() {
     float a=0,b=0,c=0,triangolo=0,quadrato=0,rettangolo=0,trapezio=0;
 
