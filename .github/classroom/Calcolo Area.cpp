@@ -9,7 +9,6 @@ int main() {
     quadrato=a*a;
     rettangolo=a*b;
     trapezio=(a+b)*c/2;
-    
     cout <<a<< " base e " <<b<< " altezza del triangolo di area " <<triangolo<< endl;
     cout <<a<< " lato del quadrato di area " <<quadrato<< endl;
     cout <<a<< " lato minore e " <<b<< " lato maggiore del rettangolo di area " <<rettangolo<< endl;
